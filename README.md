@@ -1,5 +1,5 @@
 # 👋 Hi there
-Eu sou o Mateus, gosto de tecnologia desde sempre e isso me motivou a construir minha carreira como programador. Atualmente, estou desenvolvendo minhas habilidades na Trybe, uma escola que além de ensinar a programar também ensina a trabalhar e aprender. Estou empolgado para aprender novas tecnologias, contribuir com soluções inovadoras e ser parte dessa indústria em constante evolução.
+Eu sou o Mateus, gosto de tecnologia desde sempre e isso me motivou a construir minha carreira como programador. Atualmente, estou desenvolvendo minhas habilidades na Trybe e muito animado para ser parte dessa indústria em constante evolução.
 
 # 💻 Minhas Habilidades
 [![My Skills](https://skillicons.dev/icons?i=git,js,html,css,nodejs,docker,ts,react,vite,mysql&perline=5)](https://skillicons.dev)
