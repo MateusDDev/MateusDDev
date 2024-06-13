@@ -18,3 +18,4 @@ Eu sou o Mateus, gosto de tecnologia desde sempre e isso me motivou a construir 
 
 # 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-da-silva-santos/)
+[![Entre em contato por email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:ms4811978@gmail.com)
