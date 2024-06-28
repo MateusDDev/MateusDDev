@@ -1,5 +1,5 @@
 # 👋 Hi there
-Eu sou o Mateus, gosto de tecnologia desde sempre e isso me motivou a construir minha carreira como programador. Atualmente, estou desenvolvendo minhas habilidades na Trybe e muito animado para ser parte dessa indústria em constante evolução.
+Eu sou o Mateus, gosto de tecnologia desde sempre e isso me motivou a construir minha carreira como programador
 
 # 💻 Minhas Habilidades
 
